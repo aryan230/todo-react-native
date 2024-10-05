@@ -1,11 +1,12 @@
 {
   "expo": {
-    "name": "native",
-    "slug": "native",
+    "name": "todo",
+    "slug": "todo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
+    "scheme": "todo",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
